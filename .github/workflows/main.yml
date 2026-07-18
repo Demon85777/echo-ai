@@ -1,0 +1,7 @@
+build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/Demon85777/echo-ai.gityamljobs:
